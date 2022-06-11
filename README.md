@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Beny Guo
+- 👀 I’m interested in Linux/C++/Go/Networking/Micro Service/K8s
+- 🌱 I’m currently learning Service Mesh
+- 💞️ I’m looking to collaborate on x
+- 📫 How to reach me beny_g@163.com
